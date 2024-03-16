@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "L69udyZLjO/AB2RWI5w3D6Mu4QynpYEV2CxnjUVj2/U=",
+  "Source": "mensajeria",
+  "BasePath": "_content/mensajeria",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "mensajeria\\wwwroot",
+      "Source": "mensajeria",
+      "ContentRoot": "C:\\Users\\brein\\source\\repos\\signalRTest\\SignalRTest\\wwwroot\\",
+      "BasePath": "_content/mensajeria",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\brein\\source\\repos\\signalRTest\\SignalRTest\\wwwroot\\chat.js",
+      "SourceId": "mensajeria",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\brein\\source\\repos\\signalRTest\\SignalRTest\\wwwroot\\",
+      "BasePath": "_content/mensajeria",
+      "RelativePath": "chat.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chat.js"
+    },
+    {
+      "Identity": "C:\\Users\\brein\\source\\repos\\signalRTest\\SignalRTest\\wwwroot\\index.html",
+      "SourceId": "mensajeria",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\brein\\source\\repos\\signalRTest\\SignalRTest\\wwwroot\\",
+      "BasePath": "_content/mensajeria",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
