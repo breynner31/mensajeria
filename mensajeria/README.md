@@ -11,4 +11,4 @@ This project uses:
 
 ## Live test
 
-[You can test it by clicking here](http://mensajeria.breynner31/index.html)
+[You can test it by clicking here](http://mensajeria.mensajeria/index.html)
