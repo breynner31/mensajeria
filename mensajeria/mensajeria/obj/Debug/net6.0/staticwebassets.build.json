@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "L69udyZLjO/AB2RWI5w3D6Mu4QynpYEV2CxnjUVj2/U=",
+  "Hash": "UnGBRbRLC17unVGFG7MjvG1/XuX3hOahn7uP2kxn43g=",
   "Source": "mensajeria",
   "BasePath": "_content/mensajeria",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "mensajeria\\wwwroot",
       "Source": "mensajeria",
-      "ContentRoot": "C:\\Users\\brein\\source\\repos\\signalRTest\\SignalRTest\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\wwwroot\\",
       "BasePath": "_content/mensajeria",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\brein\\source\\repos\\signalRTest\\SignalRTest\\wwwroot\\chat.js",
+      "Identity": "C:\\Users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\wwwroot\\chat.js",
       "SourceId": "mensajeria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\brein\\source\\repos\\signalRTest\\SignalRTest\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\wwwroot\\",
       "BasePath": "_content/mensajeria",
       "RelativePath": "chat.js",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\chat.js"
     },
     {
-      "Identity": "C:\\Users\\brein\\source\\repos\\signalRTest\\SignalRTest\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\wwwroot\\index.html",
       "SourceId": "mensajeria",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\brein\\source\\repos\\signalRTest\\SignalRTest\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\wwwroot\\",
       "BasePath": "_content/mensajeria",
       "RelativePath": "index.html",
       "AssetKind": "All",

@@ -1,11 +1,11 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\brein\\source\\repos\\signalRTest\\SignalRTest\\wwwroot\\chat.js",
+      "Id": "C:\\Users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\wwwroot\\chat.js",
       "PackagePath": "staticwebassets\\chat.js"
     },
     {
-      "Id": "C:\\Users\\brein\\source\\repos\\signalRTest\\SignalRTest\\wwwroot\\index.html",
+      "Id": "C:\\Users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {

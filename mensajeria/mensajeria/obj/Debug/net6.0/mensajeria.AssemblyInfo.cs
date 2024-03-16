@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mensajeria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e47e96b0fbb6fa04e7f7efd4ac09d3f265aaea1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+298a1176391479b496eaad178f79898b6f85d112")]
 [assembly: System.Reflection.AssemblyProductAttribute("mensajeria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mensajeria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

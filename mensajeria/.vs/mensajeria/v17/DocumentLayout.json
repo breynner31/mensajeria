@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brein\\source\\repos\\mensajeria\\mensajeria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB92F37-65AA-43B5-972E-06A8FDBA5EA6}|mensajeria\\mensajeria.csproj|c:\\users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BB92F37-65AA-43B5-972E-06A8FDBA5EA6}|mensajeria\\mensajeria.csproj|solutionrelative:mensajeria\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB92F37-65AA-43B5-972E-06A8FDBA5EA6}|mensajeria\\mensajeria.csproj|c:\\users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\wwwroot\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3BB92F37-65AA-43B5-972E-06A8FDBA5EA6}|mensajeria\\mensajeria.csproj|solutionrelative:mensajeria\\wwwroot\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB92F37-65AA-43B5-972E-06A8FDBA5EA6}|mensajeria\\mensajeria.csproj|c:\\users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB92F37-65AA-43B5-972E-06A8FDBA5EA6}|mensajeria\\mensajeria.csproj|solutionrelative:mensajeria\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB92F37-65AA-43B5-972E-06A8FDBA5EA6}|mensajeria\\mensajeria.csproj|c:\\users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\mensajeria.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3BB92F37-65AA-43B5-972E-06A8FDBA5EA6}|mensajeria\\mensajeria.csproj|solutionrelative:mensajeria\\mensajeria.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB92F37-65AA-43B5-972E-06A8FDBA5EA6}|mensajeria\\mensajeria.csproj|c:\\users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB92F37-65AA-43B5-972E-06A8FDBA5EA6}|mensajeria\\mensajeria.csproj|solutionrelative:mensajeria\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB92F37-65AA-43B5-972E-06A8FDBA5EA6}|mensajeria\\mensajeria.csproj|c:\\users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB92F37-65AA-43B5-972E-06A8FDBA5EA6}|mensajeria\\mensajeria.csproj|solutionrelative:mensajeria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB92F37-65AA-43B5-972E-06A8FDBA5EA6}|mensajeria\\mensajeria.csproj|c:\\users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB92F37-65AA-43B5-972E-06A8FDBA5EA6}|mensajeria\\mensajeria.csproj|solutionrelative:mensajeria\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mensajeria",
+              "DocumentMoniker": "C:\\Users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\mensajeria.csproj",
+              "RelativeDocumentMoniker": "mensajeria\\mensajeria.csproj",
+              "ToolTip": "C:\\Users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\mensajeria.csproj",
+              "RelativeToolTip": "mensajeria\\mensajeria.csproj",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-16T18:25:33.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "chat.js",
+              "DocumentMoniker": "C:\\Users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\wwwroot\\chat.js",
+              "RelativeDocumentMoniker": "mensajeria\\wwwroot\\chat.js",
+              "ToolTip": "C:\\Users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\wwwroot\\chat.js",
+              "RelativeToolTip": "mensajeria\\wwwroot\\chat.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-16T18:17:34.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "mensajeria\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "mensajeria\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T18:16:39.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "mensajeria\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "mensajeria\\Hubs\\ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T18:15:43.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "mensajeria\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\WeatherForecast.cs",
+              "RelativeToolTip": "mensajeria\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T18:15:29.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\Program.cs",
+              "RelativeDocumentMoniker": "mensajeria\\Program.cs",
+              "ToolTip": "C:\\Users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\Program.cs",
+              "RelativeToolTip": "mensajeria\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T18:15:24.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "mensajeria\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\wwwroot\\index.html",
+              "RelativeToolTip": "mensajeria\\wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-16T18:02:23.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brein\\source\\repos\\signalRTest\\SignalRTest\\mensajeria.csproj": {}
+    "C:\\Users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\mensajeria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brein\\source\\repos\\signalRTest\\SignalRTest\\mensajeria.csproj": {
+    "C:\\Users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\mensajeria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brein\\source\\repos\\signalRTest\\SignalRTest\\mensajeria.csproj",
+        "projectUniqueName": "C:\\Users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\mensajeria.csproj",
         "projectName": "mensajeria",
-        "projectPath": "C:\\Users\\brein\\source\\repos\\signalRTest\\SignalRTest\\mensajeria.csproj",
+        "projectPath": "C:\\Users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\mensajeria.csproj",
         "packagesPath": "C:\\Users\\brein\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brein\\source\\repos\\signalRTest\\SignalRTest\\obj\\",
+        "outputPath": "C:\\Users\\brein\\source\\repos\\mensajeria\\mensajeria\\mensajeria\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.SignalR.Common": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
